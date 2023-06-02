@@ -1,0 +1,89 @@
+@import 'generic.css';
+:root {
+    --primary-color: #1dd;
+    --font-family-1: consolas;
+}
+
+body{
+    color: #fff;
+    background-color: #001;
+    font-family: var(--font-family-1);
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    /* border: 1px solid; */
+    background-color: #0019;
+}
+
+a {
+    color: var(--primary-color);
+}
+
+.cta-btn {
+    display: inline-block;
+    border: 2px solid var(--primary-color);
+    padding: .9em;
+    border-radius: 5px;
+    width: 90px;
+    text-align: center;
+}
+
+.rm-lnk {
+    width: fit-content;
+}
+
+nav {
+    padding: 1em;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#nav-list {
+    width: 30%;
+    margin: auto;
+}
+
+#main-cta {
+    width: fit-content;
+}
+
+#srvc-lst {
+    flex-direction: row;
+}
+
+.srvc {
+    width: fit-content;
+    margin: 0px 2em;
+}
+
+#srvc-brf {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+#wlcm-msg {
+    margin-left: auto;
+}
+
+#wlcm-msg * {
+    margin: 1em auto;
+}
+
+#srvc-brf h2 {
+    text-shadow: 0px 0px 10px bisque;
+}
+
+#overlay {
+    background-color: #0005;
+    height: 100vh;
+}
+
+#welcome {
+    background-image: url("../img/andGodSaidLetThereBeLight.jpg");
+    background-attachment: fixed;
+}
