@@ -23,6 +23,10 @@ ul {
     padding: 0%;
 }
 
+.center {
+    text-align: center;
+}
+
 header {
     background-color: #0017;
 }
