@@ -10,6 +10,10 @@ body{
     font-family: var(--font-family-1);
 }
 
+header {
+    background-color: #0017;
+}
+
 #welcome {
     background-image: url("../img/andGodSaidLetThereBeLight.jpg");
     background-attachment: fixed;
