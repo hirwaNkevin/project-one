@@ -1,7 +1,7 @@
 @import 'generic.css';
 :root {
     --primary-color: #1dd;
-    --font-family-1: consolas;
+    --font-family-1: 'consolas';
 }
 
 body{
