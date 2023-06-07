@@ -27,6 +27,10 @@ ul {
     text-align: center;
 }
 
+.justify {
+    text-align: justify;
+}
+
 header {
     background-color: #0017;
 }
