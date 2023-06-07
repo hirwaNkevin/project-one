@@ -37,6 +37,9 @@ ul {
 
 header {
     background-color: #0017;
+    position: fixed;
+    left: 0%;
+    right: 0%;
 }
 
 #welcome {
