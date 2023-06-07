@@ -31,4 +31,5 @@ header {
     min-height: 100vh;
     background-image: url("../img/andGodSaidLetThereBeLight.jpg");
     background-attachment: fixed;
+    background-position: top left;
 }
