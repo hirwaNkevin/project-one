@@ -60,6 +60,8 @@ form input {
     padding: 1rem;
     margin: .5rem;
     outline: none;
+    background-color: #00000a;
+    color: var(--primary-color);
 }
 
 header {
