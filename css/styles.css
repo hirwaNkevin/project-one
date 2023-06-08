@@ -64,7 +64,8 @@ form input {
     outline: none;
     background-color: #00000a;
     color: var(--primary-color);
-    border: 1px solid #f2f2f290;
+    border: none;
+    border-bottom: 2px solid #1dd4;
 }
 
 header {
