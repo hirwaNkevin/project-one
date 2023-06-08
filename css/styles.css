@@ -106,3 +106,7 @@ footer,
 #articles {
     background-color: #00000a;
 }
+
+footer {
+    border-top: 2px solid #1dd4;
+}
