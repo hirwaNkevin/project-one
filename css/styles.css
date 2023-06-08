@@ -65,3 +65,11 @@ header {
     background-color: var(--primary-color);
     box-shadow: 0px 0px 0px 5px #1dd4, inset 0px 0px 0px 5px #0bb2b2;
 }
+
+#go-to-bottom {
+    width: fit-content;
+    display: block;
+    padding: 1em;
+    color: var(--primary-color);
+    font-size: x-large;
+}
