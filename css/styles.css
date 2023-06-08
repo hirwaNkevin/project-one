@@ -43,6 +43,10 @@ ul {
     width: auto !important;
 }
 
+.round {
+    border-radius: 50%;
+}
+
 header {
     background-color: #0017;
     position: fixed;
