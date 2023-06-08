@@ -54,6 +54,7 @@ ul {
 button[type='submit'] {
     border-style: none;
     outline: none;
+    color: #fff;
 }
 
 form input {
