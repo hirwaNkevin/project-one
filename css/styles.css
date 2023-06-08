@@ -51,7 +51,7 @@ header {
 }
 
 #welcome {
-    min-height: 95vh;
+    min-height: 92vh;
     background-image: url("../img/andGodSaidLetThereBeLight.jpg");
     background-attachment: fixed;
     background-position: top left;
