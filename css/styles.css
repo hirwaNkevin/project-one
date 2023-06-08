@@ -59,4 +59,5 @@ header {
 
 .btn {
     background-color: var(--primary-color);
+    box-shadow: 0px 0px 0px 5px #1dd4, inset 0px 0px 0px 5px #0bb2b2;
 }
