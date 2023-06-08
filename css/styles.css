@@ -110,3 +110,7 @@ footer,
 footer {
     border-top: 2px solid #1dd4;
 }
+
+#copy {
+    font-size: smaller;
+}
