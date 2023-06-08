@@ -51,6 +51,11 @@ ul {
     border-radius: 50%;
 }
 
+button[type='submit'] {
+    border-style: none;
+    outline: none;
+}
+
 header {
     background-color: #0017;
     position: fixed;
