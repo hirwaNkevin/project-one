@@ -35,6 +35,10 @@ ul {
     text-align: right;
 }
 
+.border {
+    border: 1px solid;
+}
+
 .container {
     width: auto !important;
 }
