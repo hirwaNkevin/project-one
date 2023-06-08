@@ -52,3 +52,7 @@ header {
     background-attachment: fixed;
     background-position: top left;
 }
+
+.btn {
+    background-color: var(--primary-color);
+}
