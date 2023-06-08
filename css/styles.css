@@ -56,6 +56,11 @@ button[type='submit'] {
     outline: none;
 }
 
+form input {
+    padding: .5rem;
+    margin: 1.5rem;
+}
+
 header {
     background-color: #0017;
     position: fixed;
