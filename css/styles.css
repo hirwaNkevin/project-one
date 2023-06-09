@@ -52,7 +52,7 @@ ul {
 }
 
 .w-50 {
-    width: 50%;
+    width: 50% !important;
 }
 
 button[type='submit'] {
