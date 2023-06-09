@@ -51,10 +51,6 @@ ul {
     border-radius: 50%;
 }
 
-.w-50 {
-    width: 50% !important;
-}
-
 button[type='submit'] {
     border-style: none;
     outline: none;
@@ -117,4 +113,10 @@ footer {
 
 #copy {
     font-size: smaller;
+}
+
+@media screen and (min-width: 1400px){
+    .w-50 {
+        width: 50% !important;
+    }
 }
