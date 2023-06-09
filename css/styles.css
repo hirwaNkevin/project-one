@@ -115,8 +115,16 @@ footer {
     font-size: smaller;
 }
 
-@media screen and (min-width: 1400px){
+@media screen and (min-width: 1200px){
     .w-50 {
         width: 50% !important;
+    }
+    #welcome {
+        min-height: 92vh;
+        background-image: url("../img/andGodSaidLetThereBeLight.jpg");
+        background-attachment: fixed;
+        background-position: top left;
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 }
