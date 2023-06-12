@@ -127,4 +127,14 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
     }
+
+    #welcome {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #welcome-inner {
+        margin-top: -100px !important;
+    }
 }
