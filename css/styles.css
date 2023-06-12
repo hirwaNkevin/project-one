@@ -120,7 +120,7 @@ footer {
         width: 50% !important;
     }
     #welcome {
-        min-height: 92vh;
+        min-height: 80vh;
         background-image: url("../img/andGodSaidLetThereBeLight.jpg");
         background-attachment: fixed;
         background-position: top left;
