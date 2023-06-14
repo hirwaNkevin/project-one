@@ -80,7 +80,26 @@ header {
     min-height: 92vh;
     background-image: url("../img/andGodSaidLetThereBeLight.jpg");
     background-attachment: fixed;
-    background-position: top left;
+    background-position: left bottom;
+    animation: moveBg 100s linear 500ms infinite alternate;
+}
+
+@keyframes moveBg {
+    from {
+        background-position: left bottom;
+    }
+
+    25% {
+        background-position: left top;
+    }
+
+    50% {
+        background-position: right top;
+    }
+
+    to {
+        background-position: right bottom;
+    }
 }
 
 .btn {
