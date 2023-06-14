@@ -81,7 +81,7 @@ header {
     background-image: url("../img/andGodSaidLetThereBeLight.jpg");
     background-attachment: fixed;
     background-position: left bottom;
-    animation: moveBg 100s linear 500ms infinite alternate;
+    animation: moveBg 100s ease 500ms infinite alternate;
 }
 
 @keyframes moveBg {
