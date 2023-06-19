@@ -133,7 +133,7 @@ header {
 }
 
 .btn:hover {
-    animation: btnWaves 3s linear 0s infinite forwards;
+    animation: btnWaves 2s linear 0s infinite forwards;
 }
 
 @keyframes btnWaves {
