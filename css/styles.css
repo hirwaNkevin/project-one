@@ -250,7 +250,7 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: left bottom;
-        animation: moveBg 90s ease 500ms infinite alternate;
+        animation: moveBg 100s ease 500ms infinite alternate;
     }
 
     @keyframes moveBg {
