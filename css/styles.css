@@ -111,6 +111,37 @@ header {
     padding: 1rem;
 }
 
+@keyframes btnWaves {
+    from,to{box-shadow: none;}
+    15%{
+        box-shadow: inset 0px 0px 0px 5px #0bb2b291;
+    }
+
+    30% {
+        box-shadow: inset 0px 0px 0px 5px #0bb2b2;
+    }
+
+    45% {
+        box-shadow: 0px 0px 0px 5px #1dd0, inset 0px 0px 0px 5px #0bb2b2;
+    }
+
+    50% {
+        box-shadow: 0px 0px 0px 5px #1dd2, inset 0px 0px 0px 5px #0a9d9d4a;
+    }
+
+    65% {
+        box-shadow: 0px 0px 0px 5px #1dd4, inset 0px 0px 0px 5px #0bb2b200;
+    }
+
+    80% {
+        box-shadow: 0px 0px 0px 5px #1dd2;
+    }
+
+    95% {
+        box-shadow: 0px 0px 0px 5px #1dd0;
+    }
+}
+
 #go-to-bottom {
     width: fit-content;
     display: block;
