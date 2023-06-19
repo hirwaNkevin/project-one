@@ -111,6 +111,10 @@ header {
     padding: 1rem;
 }
 
+.btn:hover {
+    animation: btnWaves 3s linear 0s infinite forwards;
+}
+
 @keyframes btnWaves {
     from,to{box-shadow: none;}
     15%{
